@@ -1,0 +1,12 @@
+gradio
+groq
+faiss-cpu
+PyPDF2
+sentence-transformers
+scikit-learn
+gdown
+fpdf
+PyMuPDF
+transformers
+torch
+accelerate
